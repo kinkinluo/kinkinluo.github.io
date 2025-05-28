@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Longfei Luo(罗龙飞)"
+  name             : "Longfei Luo"
   pronouns         : # example: "she/her"  
   bio              : "A junior undergraduate student at Soochow University"
   location         : "Soochow,China"
   employer         : "Soochow University"
-  uri              : https://kinkinluo.github.io
+  uri              : #https://kinkinluo.github.io
   email            : "2230416024@stu.suda.edu.cn" 
 
   # Academic websites
