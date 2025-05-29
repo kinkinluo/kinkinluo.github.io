@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi！I am Longfei Luo, a third-year undergraduate student majoring in **Bioinformatics** at the School of Life Sciences, Soochow University. I am currently conducting research in the lab of **Professor Guang Hu**, Department of Bioinformatics and Computational Biology.
+Hi！I am Longfei Luo（罗龙飞）, a third-year undergraduate student majoring in **Bioinformatics** at the School of Life Sciences, Soochow University. I am currently conducting research in the lab of **Professor Guang Hu**, Department of Bioinformatics and Computational Biology.
 
 My research interests lie in **AI for Life Sciences**, with particular focus on **AI-driven drug discovery (AIDD)**. I am broadly interested in developing computational models across both **molecular and network levels** to facilitate the understanding and design of effective therapeutics.
 
 On the **molecular level**, I explore deep learning approaches for protein structure modeling and simulation. On the **systems level**, I focus on the **theoretical modeling and application of graph neural networks (GNNs) in large-scale biological networks**, aiming to capture how drugs perturb complex network structures and to uncover the underlying mechanisms of drug action.
 
 By integrating insights across these complementary layers, my long-term goal is to contribute to mechanism-based and data-driven strategies for **precision drug development**.
+
+WeChat：Llf_miu
 
 🔬 Recent Research：Endotype-Oriented Drug Target Module Discovery
 ======
