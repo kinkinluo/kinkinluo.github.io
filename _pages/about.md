@@ -24,7 +24,7 @@ Phenotypically distinct diseases may share common **molecular endotypes**, which
 
 To support this goal, we develop deep learning-based methods for **disease target module discovery** from large-scale biological networks. The pipeline is illustrated as follows:
 
-![Technical Framework](research_pipeline.png)
+![Technical Framework](pipeline.png)
 
 Specifically, we construct a **two-layer graph neural network framework**:
 
