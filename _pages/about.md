@@ -43,7 +43,7 @@ This research direction bridges **artificial intelligence and systems biology**,
 <table>
   <tr>
     <td width="35%">
-      <img src="jpcb.png" alt="Protein Cage Paper" style="width:100%">
+      <img src="/images/jpcb.png" alt="Protein Cage Paper" style="width:100%">
     </td>
     <td>
       <b>Comparative Simulative Analysis and Design of Single-Chain Self-Assembled Protein Cages</b><br>
@@ -56,7 +56,7 @@ This research direction bridges **artificial intelligence and systems biology**,
 
   <tr>
     <td>
-      <img src="fcimb.png" alt="Gut Microbiota MR" style="width:100%">
+      <img src="/images/fcimb.png" alt="Gut Microbiota MR" style="width:100%">
     </td>
     <td>
       <b>The causal relationship between the human gut microbiota and pyogenic arthritis: a Mendelian randomization study</b><br>
@@ -85,3 +85,13 @@ I have actively pursued foundational and advanced machine learning training thro
   Taught by **Professor Jure Leskovec**, this world-renowned course deepened my understanding of graph neural networks, node/edge embedding, message passing, and graph-level prediction tasks.  
   It helped bridge the gap between theoretical foundations and practical applications in large-scale biological networks.
 
+🌟 Academic Awards & Training
+------
+- **National Scholarship**, Ministry of Education of China, 2024  
+  Awarded to top 1% of undergraduate students nationwide for academic excellence and research potential.
+
+- **Mathematical Contest in Modeling (MCM/ICM)**, Meritorious Winner, 2024  
+  Developed an LSTM-based prediction model for tennis match outcomes, recognized among top 15% globally.
+
+- **Quantitative Biology Summer School**, Peking University & Tsinghua University Joint Center for Life Sciences, 2024  
+  Selected participant in the national-level quantitative biology training program, involving systems biology, biophysics, and computational modeling.
