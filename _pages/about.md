@@ -91,7 +91,7 @@ I have actively pursued foundational and advanced machine learning training thro
   Awarded to top 1% of undergraduate students nationwide for academic excellence and research potential.
 
 - **Mathematical Contest in Modeling (MCM/ICM)**, Meritorious Winner, 2024  
-  Developed an LSTM-based prediction model for tennis match outcomes, recognized among top 15% globally.
+  Developed an LSTM-based prediction model for tennis match outcomes, recognized among top 6% globally.
 
 - **Quantitative Biology Summer School**, Peking University & Tsinghua University Joint Center for Life Sciences, 2024  
   Selected participant in the national-level quantitative biology training program, involving systems biology, biophysics, and computational modeling.
