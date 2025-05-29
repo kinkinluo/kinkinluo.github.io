@@ -11,8 +11,6 @@ Hi！I am Longfei Luo, a third-year undergraduate student majoring in **Bioinfor
 
 My research interests lie in **AI for Life Sciences**, with a focus on the **theoretical modeling and application of graph neural networks (GNNs) in large-scale biological networks**. Specifically, I aim to develop systems-level models that characterize how drugs perturb complex biological networks, thereby revealing the mechanisms of drug action in a network-wide context.
 
-This research direction bridges **artificial intelligence and systems biology**, and seeks to support **rational drug design** by providing quantitative frameworks for analyzing drug effects across molecular and cellular systems. I am broadly interested in integrating data-driven machine learning approaches with biological network modeling to advance **quantitative biology**.
-
 
 
 Recent Research：Endotype-Oriented Drug Target Module Discovery
@@ -35,7 +33,7 @@ Specifically, we construct a **two-layer graph neural network framework**:
 3. **Targetability Analysis**  
    Known drug targets are projected onto the identified modules, and **topological proximity** and **perturbation impact** are jointly analyzed to evaluate the **targeting potential** of each module.
 
-This endotype-aware framework offers a systematic approach to uncovering **actionable modules** in biological networks, thereby facilitating **precision drug repositioning** across disease contexts.
+This research direction bridges **artificial intelligence and systems biology**, and seeks to support **rational drug design** by providing quantitative frameworks for analyzing drug effects across molecular and cellular systems. I am broadly interested in integrating data-driven machine learning approaches with biological network modeling to advance **quantitative biology**.
 
 Getting started
 ======
