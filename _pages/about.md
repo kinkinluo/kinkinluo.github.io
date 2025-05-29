@@ -9,9 +9,9 @@ redirect_from:
 
 Hi！I am Longfei Luo, a third-year undergraduate student majoring in **Bioinformatics** at the School of Life Sciences, Soochow University. I am currently conducting research in the lab of **Professor Guang Hu**, Department of Bioinformatics and Computational Biology.
 
-My research interests lie in **AI for Life Sciences**, with a focus on the **theoretical modeling and application of graph neural networks (GNNs) in large-scale biological networks**. Specifically, I aim to develop **systems-level models** that characterize how **drugs perturb complex biological networks**, thereby revealing the **mechanisms of drug action in a network-wide context**.
+My research interests lie in **AI for Life Sciences**, with a focus on the **theoretical modeling and application of graph neural networks (GNNs) in large-scale biological networks**. Specifically, I aim to develop systems-level models that characterize how drugs perturb complex biological networks, thereby revealing the mechanisms of drug action in a network-wide context.
 
-This research direction bridges **artificial intelligence and systems biology**, and seeks to support **rational drug design** by providing **quantitative frameworks** for analyzing drug effects across molecular and cellular systems. I am broadly interested in **integrating data-driven machine learning approaches with biological network modeling** to advance **quantitative biology**.
+This research direction bridges **artificial intelligence and systems biology**, and seeks to support **rational drug design** by providing quantitative frameworks for analyzing drug effects across molecular and cellular systems. I am broadly interested in integrating data-driven machine learning approaches with biological network modeling to advance **quantitative biology**.
 
 
 
