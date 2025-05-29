@@ -9,11 +9,13 @@ redirect_from:
 
 Hi！I am Longfei Luo, a third-year undergraduate student majoring in **Bioinformatics** at the School of Life Sciences, Soochow University. I am currently conducting research in the lab of **Professor Guang Hu**, Department of Bioinformatics and Computational Biology.
 
-My research interests lie in **AI for Life Sciences**, with a focus on the **theoretical modeling and application of graph neural networks (GNNs) in large-scale biological networks**. Specifically, I aim to develop systems-level models that characterize how drugs perturb complex biological networks, thereby revealing the mechanisms of drug action in a network-wide context.
+My research interests lie in **AI for Life Sciences**, with particular focus on **AI-driven drug discovery (AIDD)**. I am broadly interested in developing computational models across both **molecular and network levels** to facilitate the understanding and design of effective therapeutics.
 
+On the **molecular level**, I explore deep learning approaches for protein structure modeling and simulation. On the **systems level**, I focus on the **theoretical modeling and application of graph neural networks (GNNs) in large-scale biological networks**, aiming to capture how drugs perturb complex network structures and to uncover the underlying mechanisms of drug action.
 
+By integrating insights across these complementary layers, my long-term goal is to contribute to mechanism-based and data-driven strategies for **precision drug development**.
 
-Recent Research：Endotype-Oriented Drug Target Module Discovery
+🔬 Recent Research：Endotype-Oriented Drug Target Module Discovery
 ======
 
 Phenotypically distinct diseases may share common **molecular endotypes**, which opens the door to **endotype-based drug repositioning** [Zhou et al., *Trends Pharmacol Sci*, 2022](https://www.cell.com/trends/pharmacological-sciences/pdf/S0165-6147(21)00221-2.pdf). Instead of treating symptoms, this approach aims to identify shared biological mechanisms and repurpose existing drugs to target novel indications based on mechanism-level similarity.
@@ -35,14 +37,25 @@ Specifically, we construct a **two-layer graph neural network framework**:
 
 This research direction bridges **artificial intelligence and systems biology**, and seeks to support **rational drug design** by providing quantitative frameworks for analyzing drug effects across molecular and cellular systems. I am broadly interested in integrating data-driven machine learning approaches with biological network modeling to advance **quantitative biology**.
 
-Getting started
+📝 Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## 📝 Recent Publications
+
+<div style="border: 1px solid #ccc; padding: 10px; display: flex; gap: 20px; margin-bottom: 20px; align-items: center;">
+  <div style="flex: 1;">
+    <img src="/jpcb.png" alt="Paper Figure" style="max-width: 100%;">
+  </div>
+  <div style="flex: 2;">
+    <b>Comparative Simulative Analysis and Design of Single-Chain Self-Assembled Protein Cages</b><br>
+    Xiao F, <b>Luo L</b>, Liu X, et al.<br>
+    <i>Journal of Physical Chemistry B</i>, 128(26):6272–6282, 2024.<br>
+    DOI: <a href="https://doi.org/10.1021/acs.jpcb.4c01957" target="_blank">10.1021/acs.jpcb.4c01957</a>
+    <br><br>
+    🔗 <a href="https://pubs.acs.org/doi/10.1021/acs.jpcb.4c01957" target="_blank">Paper</a>
+  </div>
+  
+</div>
+
 
 Site-wide configuration
 ------
