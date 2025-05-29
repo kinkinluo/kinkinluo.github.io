@@ -41,20 +41,36 @@ This research direction bridges **artificial intelligence and systems biology**,
 ======
 ## 📝 Recent Publications
 
-<div style="border: 1px solid #ccc; padding: 10px; display: flex; gap: 20px; margin-bottom: 20px; align-items: center;">
-  <div style="flex: 1;">
-    <img src="/jpcb.png" alt="Paper Figure" style="max-width: 100%;">
-  </div>
-  <div style="flex: 2;">
-    <b>Comparative Simulative Analysis and Design of Single-Chain Self-Assembled Protein Cages</b><br>
-    Xiao F, <b>Luo L</b>, Liu X, et al.<br>
-    <i>Journal of Physical Chemistry B</i>, 128(26):6272–6282, 2024.<br>
-    DOI: <a href="https://doi.org/10.1021/acs.jpcb.4c01957" target="_blank">10.1021/acs.jpcb.4c01957</a>
-    <br><br>
-    🔗 <a href="https://pubs.acs.org/doi/10.1021/acs.jpcb.4c01957" target="_blank">Paper</a>
-  </div>
-  
-</div>
+## 📝 Recent Publications
+
+<table>
+  <tr>
+    <td width="35%">
+      <img src="jpcb.png" alt="Protein Cage Paper" style="width:100%">
+    </td>
+    <td>
+      <b>Comparative Simulative Analysis and Design of Single-Chain Self-Assembled Protein Cages</b><br>
+      Xiao F, <b>Luo L</b>, Liu X, et al.<br>
+      <i>J Phys Chem B</i>, 128(26):6272–6282, 2024.<br>
+      DOI: <a href="https://doi.org/10.1021/acs.jpcb.4c01957" target="_blank">10.1021/acs.jpcb.4c01957</a><br>
+      🔗 <a href="https://pubs.acs.org/doi/10.1021/acs.jpcb.4c01957" target="_blank">Paper</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="fcimb.png" alt="Gut Microbiota MR" style="width:100%">
+    </td>
+    <td>
+      <b>The causal relationship between the human gut microbiota and pyogenic arthritis: a Mendelian randomization study</b><br>
+      Bai B, <b>Luo L</b>, Yao F, et al.<br>
+      <i>Front Cell Infect Microbiol</i>, 14:1452480 (2024).<br>
+      DOI: <a href="https://doi.org/10.3389/fcimb.2024.1452480" target="_blank">10.3389/fcimb.2024.1452480</a><br>
+      🔗 <a href="https://www.frontiersin.org/articles/10.3389/fcimb.2024.1452480/full" target="_blank">Paper</a>
+    </td>
+  </tr>
+</table>
+
 
 
 Site-wide configuration
