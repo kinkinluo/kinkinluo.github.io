@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi！I am Longfei Luo（罗龙飞）, a third-year undergraduate student majoring in **Bioinformatics** at the School of Life Sciences, Soochow University. I am currently conducting research in the lab of **Professor Guang Hu**, Department of Bioinformatics and Computational Biology.
+Hi! I am Longfei Luo（罗龙飞）, currently affiliated with **Zhejiang University & Zhongguancun Academy**, based in **Peking, China**.
 
 My research interests lie in **AI for Life Sciences**, with particular focus on **AI-driven drug discovery (AIDD)**. I am broadly interested in developing computational models across both **molecular and network levels** to facilitate the understanding and design of effective therapeutics.
 
